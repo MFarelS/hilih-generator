@@ -20,7 +20,7 @@
   <body>
     <nav class="navbar navbar-expand navbar-light bg-light">
       <div class="nav navbar-nav">
-        <a class="nav-item nav-link active" href="#">Hilih Generator - gopla</a>
+        <a class="nav-item nav-link active" href="#">Hilih Generator - MFarelS</a>
       </div>
     </nav>
     <div class="kotak"></div>
